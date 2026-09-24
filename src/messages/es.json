@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Conjunto Monumental de la Alcazaba de Almería",
-    "description": "Guía completa del Conjunto Monumental de la Alcazaba de Almería. Descubra esta icónica fortaleza morisca en Andalucía, España, incluyendo ubicación e información para visitantes."
+    "title": "Alcazaba de Almería: Entradas, Horarios y Guía de Visita",
+    "description": "Planifica tu visita al Conjunto Monumental de la Alcazaba de Almería, una de las mayores fortalezas moriscas de España. Entradas y precios, horarios, cómo llegar, visitas guiadas y consejos para 2026."
   },
   "header": {
     "home": "Inicio",
@@ -14,7 +14,7 @@
     "title": "Alcazaba de Almería",
     "subtitle": "Monumento · Almería",
     "rating": "4.6",
-    "reviewCount": "15,710 opiniones",
+    "reviewCount": "16,223 opiniones",
     "type": "Castillo",
     "openMaps": "Ver en Google Maps",
     "mapsLink": "https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
@@ -76,7 +76,7 @@
     "city": "Ciudad",
     "cityValue": "Almería",
     "googleRating": "Valoración de Google",
-    "googleRatingValue": "4.6 (15,710)",
+    "googleRatingValue": "4.6 (16,223)",
     "address": "Dirección",
     "addressValue": "RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain",
     "plusCode": "Plus Code",
@@ -330,5 +330,30 @@
   "officialManagement": {
     "title": "Sobre la Alcazaba",
     "text": "El Conjunto Monumental de la Alcazaba de Almería es un monumento importante administrado directamente por la región de Andalucía, España. Este patrimonio cultural está estrictamente protegido y gestionado diariamente por la Junta de Andalucía y agencias locales de patrimonio histórico."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿La entrada a la Alcazaba de Almería es gratuita?",
+        "answer": "La entrada es gratuita para los ciudadanos de la Unión Europea. El resto de visitantes abona una tarifa nominal de unos 1,5 EUR. Hay aparcamiento público de pago en las inmediaciones."
+      },
+      {
+        "question": "¿Cuál es el horario de la Alcazaba?",
+        "answer": "El monumento está abierto de martes a domingo y cerrado los lunes. El horario varía según la temporada, por lo que se recomienda consultarlo antes de la visita."
+      },
+      {
+        "question": "¿Cómo llegar a la Alcazaba de Almería?",
+        "answer": "La fortaleza se encuentra sobre el casco antiguo y se puede llegar a pie desde el centro (con una subida). Está a unos 2 km de la estación de tren y autobús y a 10 km del aeropuerto, accesible en bus, taxi o a pie por la histórica Medina."
+      },
+      {
+        "question": "¿Hay visitas guiadas?",
+        "answer": "Sí. Se ofrecen visitas guiadas de pago en profundidad en varios idiomas, que permiten conocer mejor las ruinas de los palacios, los aljibes islámicos y las defensas."
+      },
+      {
+        "question": "¿Qué es la Alcazaba y por qué visitarla?",
+        "answer": "El Conjunto Monumental de la Alcazaba de Almería es una de las mayores fortalezas moriscas que se conservan en España, mandada construir en el siglo X por Abderramán III. Sus tres recintos, jardines islámicos y vistas panorámicas sobre la ciudad y el Mediterráneo la convierten en una joya de Andalucía."
+      }
+    ]
   }
 }

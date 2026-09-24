@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Conjunto Monumental de la Alcazaba de Almería",
-    "description": "Complete travel guide to the Alcazaba of Almería. Learn about this iconic Moorish fortress in Andalusia, Spain, including location and visitor information."
+    "title": "Alcazaba de Almería: Tickets, Hours & Visitor Guide",
+    "description": "Plan your visit to the Alcazaba of Almería, one of Spain's largest Moorish fortresses. Find tickets & entry fees, opening hours, how to get there, guided tours, and 2026 visitor tips."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Alcazaba of Almería",
     "subtitle": "Monument · Almería",
     "rating": "4.6",
-    "reviewCount": "15,710 reviews",
+    "reviewCount": "16,223 reviews",
     "type": "Castle",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
@@ -76,7 +76,7 @@
     "city": "City",
     "cityValue": "Almería",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.6 (15,710)",
+    "googleRatingValue": "4.6 (16,223)",
     "address": "Address",
     "addressValue": "RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain",
     "plusCode": "Plus Code",
@@ -330,5 +330,30 @@
   "officialManagement": {
     "title": "About the Alcazaba",
     "text": "The Conjunto Monumental de la Alcazaba de Almería is an important monument directly administered by the region of Andalusia, Spain. This cultural heritage is strictly protected and managed daily by the Regional Government of Andalusia and local historical heritage agencies."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is admission to the Alcazaba de Almería free?",
+        "answer": "Entry is free for citizens of the European Union. Other visitors pay a nominal fee of around 1.5 EUR. Paid public parking is available nearby."
+      },
+      {
+        "question": "What are the opening hours of the Alcazaba?",
+        "answer": "The monument is open from Tuesday to Sunday and closed on Mondays. Opening times vary by season, so it is best to check before your visit."
+      },
+      {
+        "question": "How do I get to the Alcazaba de Almería?",
+        "answer": "The fortress sits above the old town and is within walking distance of the city centre (with an uphill climb). It is about 2 km from the train and bus station and 10 km from Almería Airport, reachable by bus, taxi, or on foot through the historic Medina."
+      },
+      {
+        "question": "Are guided tours available?",
+        "answer": "Yes. In-depth paid guided tours are available in multiple languages, offering a closer look at the palace ruins, Islamic cisterns, and defensive fortifications."
+      },
+      {
+        "question": "What is the Alcazaba and why should I visit?",
+        "answer": "The Conjunto Monumental de la Alcazaba de Almería is one of the largest surviving Moorish fortresses in Spain, built in the 10th century by Abd al-Rahman III. Its three enclosures, Islamic gardens, and panoramic views over the city and the Mediterranean make it a highlight of Andalusia."
+      }
+    ]
   }
 }

@@ -12,8 +12,10 @@ import PhotoSpotsSection from '@/components/PhotoSpotsSection';
 import HotelsSection from '@/components/HotelsSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
+import FaqSection from '@/components/FaqSection';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
+import StructuredData from '@/components/StructuredData';
 
 export default async function HomePage({
   params,
@@ -25,6 +27,7 @@ export default async function HomePage({
 
   return (
     <>
+      <StructuredData locale={locale} />
       <Header />
       <main>
         <Hero />
@@ -39,6 +42,7 @@ export default async function HomePage({
         <Gallery />
         <HotelsSection />
         <Reviews />
+        <FaqSection />
         <MapEmbed />
       </main>
       <Footer />

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "阿尔梅里亚阿尔卡萨瓦城堡 (Conjunto Monumental de la Alcazaba de Almería)",
-    "description": "阿尔梅里亚阿尔卡萨瓦城堡的完整旅游指南。了解这座西班牙安达卢西亚地区标志性的摩尔人堡垒，获取位置和游览信息。"
+    "title": "阿尔梅里亚阿尔卡萨瓦城堡：门票、开放时间与游览指南",
+    "description": "规划您的阿尔卡萨瓦城堡之旅——西班牙最大的摩尔人堡垒之一。查看门票与费用、开放时间、交通方式、导游服务与实用建议。"
   },
   "header": {
     "home": "首页",
@@ -14,7 +14,7 @@
     "title": "阿尔卡萨瓦城堡",
     "subtitle": "城堡 · 阿尔梅里亚",
     "rating": "4.6",
-    "reviewCount": "15,710 条评价",
+    "reviewCount": "16,223 条评价",
     "type": "城堡",
     "openMaps": "在Google地图上查看位置",
     "mapsLink": "https://maps.app.goo.gl/MWYBp4WMmkk3NWgR7"
@@ -76,7 +76,7 @@
     "city": "城市",
     "cityValue": "阿尔梅里亚 (Almería)",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.6 (15,710)",
+    "googleRatingValue": "4.6 (16,223)",
     "address": "地址",
     "addressValue": "RGRH+6W, C. Almanzor, s/n, 04002 Almería, Spain",
     "plusCode": "Plus Code",
@@ -330,5 +330,30 @@
   "officialManagement": {
     "title": "关于阿尔卡萨瓦城堡",
     "text": "阿尔梅里亚阿尔卡萨瓦城堡（Conjunto Monumental de la Alcazaba de Almería）是西班牙安达卢西亚大区直辖的重要纪念碑群。该文化遗产由安达卢西亚大区政府及当地历史遗产机构进行严格的保护与日常管理。"
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "question": "阿尔卡萨瓦城堡免费入场吗？",
+        "answer": "欧盟公民可免费入场，其他游客需支付约 1.5 欧元的象征性费用。附近设有付费公共停车场。"
+      },
+      {
+        "question": "阿尔卡萨瓦城堡的开放时间是？",
+        "answer": "古迹周二至周日开放，周一闭馆。具体开放时间随季节调整，建议出行前确认。"
+      },
+      {
+        "question": "怎么去阿尔卡萨瓦城堡？",
+        "answer": "城堡位于老城区上方，从市中心步行即可到达（需走一段上坡路）。距离火车站和汽车站约 2 公里，距离阿尔梅里亚机场约 10 公里，可乘坐公交、出租车或穿过历史悠久的麦地那老城区步行前往。"
+      },
+      {
+        "question": "有导游讲解服务吗？",
+        "answer": "有。提供多种语言的深度付费讲解服务，带您深入了解宫殿遗址、伊斯兰蓄水池和防御工事。"
+      },
+      {
+        "question": "什么是阿尔卡萨瓦城堡，为什么值得游览？",
+        "answer": "阿尔梅里亚阿尔卡萨瓦城堡（Conjunto Monumental de la Alcazaba de Almería）是西班牙现存规模最大的摩尔人堡垒之一，由阿卜杜拉赫曼三世于公元 10 世纪下令建造。其三重围郭、伊斯兰花园以及俯瞰城市与地中海的全景，使它成为安达卢西亚的亮点。"
+      }
+    ]
   }
 }
